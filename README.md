@@ -37,74 +37,63 @@
 <br>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/FORTIGATE-05080D?style=for-the-badge&logo=fortinet&logoColor=EE3124" alt="FortiGate">
-<img src="https://img.shields.io/badge/PALO%20ALTO-05080D?style=for-the-badge&logo=paloaltonetworks&logoColor=F04E23" alt="Palo Alto">
-<img src="https://img.shields.io/badge/CISCO-05080D?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco">
-<img src="https://img.shields.io/badge/ARUBA-05080D?style=for-the-badge&logo=hp&logoColor=FF8300" alt="Aruba">
-<img src="https://img.shields.io/badge/F5%20BIG--IP-05080D?style=for-the-badge&logo=f5&logoColor=E4002B" alt="F5 BIG-IP">
-<img src="https://img.shields.io/badge/CITRIX%20WAF-05080D?style=for-the-badge&logo=citrix&logoColor=00A4EF" alt="Citrix WAF">
-<img src="https://img.shields.io/badge/CLOUDFLARE-05080D?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
-
-<img src="https://img.shields.io/badge/FORCEPOINT%20DLP-05080D?style=for-the-badge&logoColor=00BFA5" alt="Forcepoint DLP">
-<img src="https://img.shields.io/badge/SYMANTEC%20DLP-05080D?style=for-the-badge&logo=symantec&logoColor=FDB511" alt="Symantec DLP">
-<img src="https://img.shields.io/badge/BEYONDTRUST-05080D?style=for-the-badge&logoColor=F15A24" alt="BeyondTrust">
-<img src="https://img.shields.io/badge/ONE%20IDENTITY-05080D?style=for-the-badge&logoColor=00AEEF" alt="One Identity">
-<img src="https://img.shields.io/badge/KASPERSKY-05080D?style=for-the-badge&logo=kaspersky&logoColor=00A88E" alt="Kaspersky">
-<img src="https://img.shields.io/badge/TRELLIX%20EDR-05080D?style=for-the-badge&logoColor=00AEEF" alt="Trellix EDR">
-<img src="https://img.shields.io/badge/FORTINET%20NDR-05080D?style=for-the-badge&logo=fortinet&logoColor=EE3124" alt="Fortinet NDR">
-<img src="https://img.shields.io/badge/NETWITNESS%20NDR-05080D?style=for-the-badge&logoColor=ED1C24" alt="NetWitness NDR">
-
-<img src="https://img.shields.io/badge/QRADAR-05080D?style=for-the-badge&logo=ibm&logoColor=0F62FE" alt="QRadar">
-<img src="https://img.shields.io/badge/TENABLE-05080D?style=for-the-badge&logoColor=00B3A4" alt="Tenable">
-<img src="https://img.shields.io/badge/NESSUS-05080D?style=for-the-badge&logoColor=00B3A4" alt="Nessus">
-<img src="https://img.shields.io/badge/QUALYS-05080D?style=for-the-badge&logoColor=ED2E26" alt="Qualys">
-
-<img src="https://img.shields.io/badge/BURP%20SUITE-05080D?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite">
-<img src="https://img.shields.io/badge/KALI%20LINUX-05080D?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux">
-<img src="https://img.shields.io/badge/OWASP%20ZAP-05080D?style=for-the-badge&logo=owasp&logoColor=FFFFFF" alt="OWASP ZAP">
-<img src="https://img.shields.io/badge/NMAP-05080D?style=for-the-badge&logoColor=4682B4" alt="Nmap">
-<img src="https://img.shields.io/badge/METASPLOIT-05080D?style=for-the-badge&logo=metasploit&logoColor=2596CD" alt="Metasploit">
-<img src="https://img.shields.io/badge/WIRESHARK-05080D?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark">
-<img src="https://img.shields.io/badge/POSTMAN-05080D?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
-
-<img src="https://img.shields.io/badge/SEMGREP-05080D?style=for-the-badge&logo=semgrep&logoColor=FFFFFF" alt="Semgrep">
-<img src="https://img.shields.io/badge/GITLEAKS-05080D?style=for-the-badge&logo=git&logoColor=F05032" alt="Gitleaks">
-<img src="https://img.shields.io/badge/CHECKOV-05080D?style=for-the-badge&logoColor=00B5E2" alt="Checkov">
-<img src="https://img.shields.io/badge/TRIVY-05080D?style=for-the-badge&logo=aqua&logoColor=1904DA" alt="Trivy">
-<img src="https://img.shields.io/badge/PIP--AUDIT-05080D?style=for-the-badge&logo=pypi&logoColor=3775A9" alt="pip-audit">
-<img src="https://img.shields.io/badge/SONARQUBE-05080D?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube">
-<img src="https://img.shields.io/badge/CYCLONEDX-05080D?style=for-the-badge&logoColor=7B61FF" alt="CycloneDX">
-
-<img src="https://img.shields.io/badge/DOCKER-05080D?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/KUBERNETES-05080D?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
-<img src="https://img.shields.io/badge/GIT-05080D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/GITHUB-05080D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-05080D?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/GUNICORN-05080D?style=for-the-badge&logo=gunicorn&logoColor=499848" alt="Gunicorn">
-
-<img src="https://img.shields.io/badge/MICROSOFT%20AZURE-05080D?style=for-the-badge&logo=icloud&logoColor=0078D4" alt="Microsoft Azure">
-<img src="https://img.shields.io/badge/AWS-05080D?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
-<img src="https://img.shields.io/badge/VMWARE%20VSPHERE-05080D?style=for-the-badge&logo=vmware&logoColor=9DA3A6" alt="VMware vSphere">
-<img src="https://img.shields.io/badge/PROXMOX-05080D?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox">
-
-<img src="https://img.shields.io/badge/WINDOWS%20SERVER-05080D?style=for-the-badge&logo=windows11&logoColor=0078D4" alt="Windows Server">
-<img src="https://img.shields.io/badge/LINUX-05080D?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
-<img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-05080D?style=for-the-badge&logo=windows11&logoColor=0078D4" alt="Active Directory">
-<img src="https://img.shields.io/badge/MICROSOFT%20365-05080D?style=for-the-badge&logo=microsoft&logoColor=F25022" alt="Microsoft 365">
-
-<img src="https://img.shields.io/badge/PYTHON-05080D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/BASH-05080D?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash">
-<img src="https://img.shields.io/badge/POWERSHELL-05080D?style=for-the-badge&logo=powershell&logoColor=5391FE" alt="PowerShell">
-<img src="https://img.shields.io/badge/C%23-05080D?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C Sharp">
-<img src="https://img.shields.io/badge/PHP-05080D?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
-
-<img src="https://img.shields.io/badge/FLASK-05080D?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask">
-<img src="https://img.shields.io/badge/SQLITE-05080D?style=for-the-badge&logo=sqlite&logoColor=00AEEF" alt="SQLite">
-<img src="https://img.shields.io/badge/ANDROID-05080D?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android">
-<img src="https://img.shields.io/badge/KOTLIN-05080D?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
-<img src="https://img.shields.io/badge/CURL-05080D?style=for-the-badge&logo=curl&logoColor=FFFFFF" alt="cURL">
-
+<img src="./assets/skills/fortigate.png" alt="FortiGate">
+<img src="./assets/skills/palo-alto.png" alt="Palo Alto">
+<img src="./assets/skills/cisco.png" alt="Cisco">
+<img src="./assets/skills/aruba.png" alt="Aruba">
+<img src="./assets/skills/f5-big-ip.png" alt="F5 BIG-IP">
+<img src="./assets/skills/citrix-waf.png" alt="Citrix WAF">
+<img src="./assets/skills/cloudflare.png" alt="Cloudflare">
+<img src="./assets/skills/forcepoint-dlp.png" alt="Forcepoint DLP">
+<img src="./assets/skills/symantec-dlp.png" alt="Symantec DLP">
+<img src="./assets/skills/beyondtrust.png" alt="BeyondTrust">
+<img src="./assets/skills/one-identity.png" alt="One Identity">
+<img src="./assets/skills/kaspersky.png" alt="Kaspersky Security Center">
+<img src="./assets/skills/trellix-edr.png" alt="Trellix EDR">
+<img src="./assets/skills/fortinet-ndr.png" alt="Fortinet NDR">
+<img src="./assets/skills/netwitness-ndr.png" alt="NetWitness NDR">
+<img src="./assets/skills/qradar.png" alt="QRadar">
+<img src="./assets/skills/tenable.png" alt="Tenable">
+<img src="./assets/skills/nessus.png" alt="Nessus">
+<img src="./assets/skills/qualys.png" alt="Qualys">
+<img src="./assets/skills/burp-suite.png" alt="Burp Suite">
+<img src="./assets/skills/kali-linux.png" alt="Kali Linux">
+<img src="./assets/skills/owasp-zap.png" alt="OWASP ZAP">
+<img src="./assets/skills/nmap.png" alt="Nmap">
+<img src="./assets/skills/metasploit.png" alt="Metasploit">
+<img src="./assets/skills/wireshark.png" alt="Wireshark">
+<img src="./assets/skills/postman.png" alt="Postman">
+<img src="./assets/skills/semgrep.png" alt="Semgrep">
+<img src="./assets/skills/gitleaks.png" alt="Gitleaks">
+<img src="./assets/skills/checkov.png" alt="Checkov">
+<img src="./assets/skills/trivy.png" alt="Trivy">
+<img src="./assets/skills/pip-audit.png" alt="pip-audit">
+<img src="./assets/skills/sonarqube.png" alt="SonarQube">
+<img src="./assets/skills/cyclonedx.png" alt="CycloneDX">
+<img src="./assets/skills/docker.png" alt="Docker">
+<img src="./assets/skills/kubernetes.png" alt="Kubernetes">
+<img src="./assets/skills/git.png" alt="Git">
+<img src="./assets/skills/github.png" alt="GitHub">
+<img src="./assets/skills/github-actions.png" alt="GitHub Actions">
+<img src="./assets/skills/gunicorn.png" alt="Gunicorn">
+<img src="./assets/skills/microsoft-azure.png" alt="Microsoft Azure">
+<img src="./assets/skills/aws.png" alt="AWS">
+<img src="./assets/skills/vmware-vsphere.png" alt="VMware vSphere">
+<img src="./assets/skills/proxmox.png" alt="Proxmox">
+<img src="./assets/skills/windows-server.png" alt="Windows Server">
+<img src="./assets/skills/linux.png" alt="Linux">
+<img src="./assets/skills/active-directory.png" alt="Active Directory">
+<img src="./assets/skills/microsoft-365.png" alt="Microsoft 365">
+<img src="./assets/skills/python.png" alt="Python">
+<img src="./assets/skills/bash.png" alt="Bash">
+<img src="./assets/skills/powershell.png" alt="PowerShell">
+<img src="./assets/skills/csharp.png" alt="C#">
+<img src="./assets/skills/php.png" alt="PHP">
+<img src="./assets/skills/flask.png" alt="Flask">
+<img src="./assets/skills/sqlite.png" alt="SQLite">
+<img src="./assets/skills/android.png" alt="Android">
+<img src="./assets/skills/kotlin.png" alt="Kotlin">
+<img src="./assets/skills/curl.png" alt="cURL">
 </p>
 
 <br>
