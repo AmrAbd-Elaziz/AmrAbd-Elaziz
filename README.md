@@ -29,7 +29,7 @@
 </tr>
 </table>
 <p align="center">
-<b><i>❝ Bonne journée — Have a beautiful day! ❞</i></b>
+<b><i>❝ Always léarning — Never a finished story! ❞</i></b>
 </p>
 
 <br>
