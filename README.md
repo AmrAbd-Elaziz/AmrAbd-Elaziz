@@ -24,7 +24,7 @@
 
 </td>
 <td width="260" align="center" valign="middle">
-<img src="./assets/me.gif" width="250" alt="Amr Abdelaziz">
+<img src="./assets/ascii_symbols_transparent.gif" width="130" alt="Animated ASCII">
 </td>
 </tr>
 </table>
