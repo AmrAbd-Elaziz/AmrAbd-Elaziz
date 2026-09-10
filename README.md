@@ -192,7 +192,11 @@
 </p>
 
 <p align="center">
-<sub>Interested in collaborating, discussing security, or building something interesting? Let's connect.</sub>
+<sub>Interested in collaborating, discussing security, or building something interesting? Let's connect.</sub>&nbsp;
+<img src="./assets/blue_orbit.gif"
+     width="32"
+     valign="middle"
+     alt="Animated Logo">
 </p>
 
 <br>
