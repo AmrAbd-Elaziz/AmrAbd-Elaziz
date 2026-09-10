@@ -30,7 +30,7 @@
 
 <hr>
 
-<h2 align="center">What I Work With</h2>
+<h1 align="center">>>> What I Work With <<< </h1>
 
 <br>
 
@@ -149,7 +149,7 @@
 
 <hr>
 
-<h2 align="center">🏆 Certifications &amp; Focused Training</h2>
+<h1 align="center">>>> Certifications <<< </h1>
 
 <br>
 
@@ -180,13 +180,8 @@
 <td>✔️ Completed</td>
 </tr>
 <tr>
-<td>ISO/IEC 27001 Information Security Associate</td>
-<td>—</td>
-<td>✔️ Completed</td>
-</tr>
-<tr>
 <td>Practical API Hacking</td>
-<td>—</td>
+<td>TCM Security</td>
 <td>✔️ Lifetime</td>
 </tr>
 <tr>
@@ -195,8 +190,8 @@
 <td>✔️ Lifetime</td>
 </tr>
 <tr>
-<td>DevSecOps with Docker &amp; Kubernetes</td>
-<td>—</td>
+<td>Implementing DevSecOps with Docker &amp; Kubernetes</td>
+<td>BPB Publications</td>
 <td>✔️ Lifetime</td>
 </tr>
 <tr>
@@ -216,7 +211,7 @@
 </tr>
 <tr>
 <td>ISO/IEC 27001 Lead Implementer</td>
-<td>—</td>
+<td>PECB</td>
 <td>⏳ Ongoing</td>
 </tr>
 </table>
@@ -229,7 +224,7 @@
 
 <hr>
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h1 align="center"> >>> Let's Connect <<< </h1>
 
 <p align="center">
 <b>Open to Security Engineering • Cloud Security • AppSec • DevSecOps opportunities</b>
