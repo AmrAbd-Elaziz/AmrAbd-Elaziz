@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/robot_bounce.gif" width="55" alt="Robot" />
+  <img src="./assets/amr-ascii-soft-shake.gif" width="55" alt="Robot" />
   Welcome to My GitHub Profile 👋
 </h1>
 
