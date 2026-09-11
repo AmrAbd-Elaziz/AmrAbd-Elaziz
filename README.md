@@ -1,12 +1,23 @@
 <!-- ===================================================== -->
 <!-- HERO -->
 <!-- ===================================================== -->
-
-<h2 align="center">
-   <img src="./assets/megaman-head.gif" width="42" alt="Mega Man"> Welcome to Amr's GitHub &gt;_
-  <img src="./assets/ascii_wave.svg" width="65">
-</h2>
-
+<p align="center">
+  <img
+    src="./assets/megaman.gif"
+    width="38"
+    align="middle"
+    alt="Mega Man"
+  />
+  &nbsp;&nbsp;
+  <big><big><strong>Welcome to Amr's GitHub &gt;_</strong></big></big>
+  &nbsp;&nbsp;
+  <img
+    src="./assets/ascii_wave.svg"
+    width="55"
+    align="middle"
+    alt="ASCII Wave"
+  />
+</p>
 <table align="center">
 <tr>
 
