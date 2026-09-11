@@ -21,9 +21,11 @@
   <code>&gt;_ SYSTEM PROFILE</code>
 </p>
 
+<br>
+
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=500&height=45&lines=%24+whoami;Amr+Abdelaziz+%E2%80%94+Security+Engineering;Cybersecurity+%2F+AppSec+%2F+DevSecOps;AI+%C2%B7+Automation+%C2%B7+Cloud+Security;Building+end-to-end%2C+shipping+for+real."
-alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=IIBM+Plex+Mono&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=540&height=55&lines=%24+whoami;Amr+Abdelaziz+%E2%80%94+Security+Engineering;Cybersecurity+%2F+AppSec+%2F+DevSecOps;AI+%C2%B7+Automation+%C2%B7+Cloud+Security;Building+end-to-end%2C+shipping+for+real."
+  alt="Typing SVG"
 />
 
 </td>
