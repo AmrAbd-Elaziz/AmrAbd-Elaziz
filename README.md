@@ -34,6 +34,12 @@
 
 <br>
 
+<!-- WALKING CHARACTER -->
+<p align="center">
+  <img src="./assets/ascii_symbols_transparent.gif" width="180" alt="Walking Character">
+</p>
+
+<br>
 <!-- ===================================================== -->
 <!-- WHAT I WORK WITH -->
 <!-- ===================================================== -->
