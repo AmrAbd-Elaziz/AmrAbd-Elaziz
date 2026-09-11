@@ -2,7 +2,7 @@
 <!-- HERO -->
 <!-- ===================================================== -->
 <p align="center">
-  <img src="./assets/mega_welcome_header.gif" height="64" alt="Welcome to Amr's GitHub"><img src="./assets/ascii_wave.svg" height="64" alt="ASCII Wave">
+  <img src="./assets/mega_w.gif" height="64" alt="Welcome to Amr's GitHub"><img src="./assets/ascii_wave.svg" height="64" alt="ASCII Wave">
 </p>
 <table align="center">
 <tr>
