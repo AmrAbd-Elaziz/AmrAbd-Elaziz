@@ -4,7 +4,7 @@
 
 <h2 align="center">
   🤖 Welcome to Amr's GitHub &gt;_
-  <img src="./assets/ascii_waving_compact.svg" width="65">
+  <img src="./assets/ascii_wave.svg" width="65">
 </h2>
 
 <table align="center">
