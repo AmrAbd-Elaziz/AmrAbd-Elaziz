@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <h2 align="center">
-   <img src="./assets/mega.gif" width="42" alt="Mega Man"> Welcome to Amr's GitHub &gt;_
+   <img src="./assets/megaman-head.gif" width="42" alt="Mega Man"> Welcome to Amr's GitHub &gt;_
   <img src="./assets/ascii_wave.svg" width="65">
 </h2>
 
