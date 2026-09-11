@@ -203,7 +203,7 @@ alt="Animated Terminal Portrait"
 
 <hr>
 
-<h1 align="center"> >>> Let's Connect <<< </h1>
+<h1 align="center"> >>> Let’s Build Security That Holds Up <<< </h1>
 
 <p align="center">
 <b>Open to Security Engineering • Cloud Security • AppSec • DevSecOps opportunities</b>
