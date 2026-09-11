@@ -4,42 +4,55 @@
 
 <h1 align="center">
 <sub><img src="./assets/robot_bounce.gif" width="44" alt="Robot"></sub>
-&nbsp;Welcome to Amr's GitHub Profile _<&nbsp; 👋
+&nbsp;Welcome to Amr's GitHub _<&nbsp; 👋
 </h1>
 
 <table align="center">
 <tr>
+
+<td width="560" align="center" valign="middle">
+
+<!-- ASCII FACE BETWEEN TWO LINES -->
+<table align="center">
+<tr>
+
 <td width="560" align="center" valign="top">
 
 <h1 align="center">( •̀ᴗ•́ ) ̑̑</h1>
 
-
-<br>
-
+<p align="center">
+  <code>&gt;_ SYSTEM PROFILE</code>
+</p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=520&lines=%24+whoami;Amr+Abdelaziz+%E2%80%94+Security+Engineering;Cybersecurity+%2F+AppSec+%2F+DevSecOps;AI+%C2%B7+Automation+%C2%B7+Cloud+Security;Building+end-to-end%2C+shipping+for+real."
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=500&height=45&lines=%24+whoami;Amr+Abdelaziz+%E2%80%94+Security+Engineering;Cybersecurity+%2F+AppSec+%2F+DevSecOps;AI+%C2%B7+Automation+%C2%B7+Cloud+Security;Building+end-to-end%2C+shipping+for+real."
+alt="Typing SVG"
 />
 
 </td>
-<td width="260" align="center" valign="middle">
-<img src="./assets/dot_shake_github.svg" width="200" alt="Animated ASCII">
+
+<td width="210" align="center" valign="middle">
+
+<img
+src="./assets/dot_shake_github.svg"
+width="190"
+alt="Animated Terminal Portrait"
+/>
+
 </td>
+
 </tr>
 </table>
 <p align="center">
 <b><i>❝ Always léarning — Never a finished story! ❞</i></b>
 </p>
 
-<br>
 
 <!-- WALKING CHARACTER -->
 <p align="center">
   <img src="./assets/ascii_symbols_transparent.gif" width="180" alt="Walking Character">
 </p>
 
-<br>
 <!-- ===================================================== -->
 <!-- WHAT I WORK WITH -->
 <!-- ===================================================== -->
