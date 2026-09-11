@@ -24,7 +24,7 @@
 
 </td>
 <td width="260" align="center" valign="middle">
-<img src="./assets/ascii_waving_compact.svg" width="200" alt="Animated ASCII">
+<img src="./assets/dot_shake_github.svg" width="200" alt="Animated ASCII">
 </td>
 </tr>
 </table>
