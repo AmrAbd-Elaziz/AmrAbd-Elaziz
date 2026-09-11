@@ -4,7 +4,7 @@
 
 <h1 align="center">
 <sub><img src="./assets/robot_bounce.gif" width="44" alt="Robot"></sub>
-&nbsp;Welcome to My GitHub Profile&nbsp; 👋
+&nbsp;Welcome to Amr's GitHub Profile _<&nbsp; 👋
 </h1>
 
 <table align="center">
